@@ -1,6 +1,6 @@
 # Project-Question-2
 
-Question 2 to the computer science project
+Question 2 to A-Level Computer Science Project
 
 Write a simple C program that adds the values of two variables val1 and val2 and then displays the result in a short
 simple sentence. [5 marks]
